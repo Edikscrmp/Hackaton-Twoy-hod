@@ -1,0 +1,44 @@
+#container{
+	 background: #ffffff;
+	 margin: auto auto;
+     text-align: center;
+     width: 1440px;
+     height: 2486px;
+}
+
+#head1{
+background: #FFFFFF;
+     width: 1440px;
+     height: 48px;;
+}
+
+
+#content{
+	background: #FFFFFF;
+	 float: right;
+     width: 1440px;
+     height: 2082px;
+}
+
+#clear{
+	clear: both;
+}
+
+
+#footer{
+	background: #141414;
+	width: 1440px;
+	height: 356px;
+}
+
+#textnav1{
+  text-align: left;
+  margin: auto;
+  width: 95%;
+}
+
+#textnav2{
+  text-align: left;
+  margin: auto;
+  width: 49%;
+}
