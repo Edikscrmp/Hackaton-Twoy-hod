@@ -9,15 +9,15 @@
 #head1{
 background: #FFFFFF;
      width: 1440px;
-     height: 48px;;
+     height: 1111px;;
 }
 
 
 #content{
-	background: #FFFFFF;
+	background: url(eventbody.png) ;
 	 float: right;
      width: 1440px;
-     height: 2082px;
+     height: 2019px;
 }
 
 #clear{
